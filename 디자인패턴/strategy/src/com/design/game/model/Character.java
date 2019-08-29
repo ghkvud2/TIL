@@ -13,7 +13,7 @@ public abstract class Character {
 	public abstract void display();
 
 	public void setWeaponBehavior(WeaponBehavior weaponBehavior) {
-		this.weaponBehavior = weaponBehavior;
+		this.weaponBehavior = weaponBehavior; 
 	}
 
 }
