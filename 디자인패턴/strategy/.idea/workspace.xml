@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="236c3d57-cda0-42d8-8cc3-8d64ce16883f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpattern/src/com/design/book/BookMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpattern/src/com/design/duck/DuckMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpattern/src/com/design/game/GameMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpattern/src/com/design/robot/RobotMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/BookMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/interfaces/BookDiscountPricePolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/interfaces/MemberDiscountPricePolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/interfaces/OrdinaryPricePolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/interfaces/PricePolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/model/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/book/model/Rent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/DuckMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/fly/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/fly/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/fly/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/quack/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/quack/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/quack/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/interfaces/quack/Squeak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/model/BasicDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/model/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/model/ReadHeadDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/duck/model/RubberDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/GameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/interfaces/AxeBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/interfaces/BowAndArrowBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/interfaces/KnifeBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/interfaces/SwordBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/interfaces/WeaponBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/model/Amazon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/model/Babarian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/game/model/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/RobotMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/attack/Attack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/attack/Missile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/attack/Punch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/move/Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/move/Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/interfaces/move/Walk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/model/Atom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/model/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/design/robot/model/TaekwonV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/interfaces/BookDiscountPricePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/interfaces/MemberDiscountPricePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/interfaces/OrdinaryPricePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/interfaces/PricePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/model/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/book/model/Rent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/fly/FlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/fly/FlyNoWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/fly/FlyWithWings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/quack/MuteQuack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/quack/Quack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/quack/QuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/interfaces/quack/Squeak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/model/BasicDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/model/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/model/ReadHeadDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/duck/model/RubberDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/interfaces/AxeBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/interfaces/BowAndArrowBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/interfaces/KnifeBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/interfaces/SwordBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/interfaces/WeaponBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/model/Amazon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/model/Babarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/game/model/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/attack/Attack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/attack/Missile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/attack/Punch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/move/Fly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/move/Move.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/interfaces/move/Walk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/model/Atom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/model/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/robot/model/TaekwonV.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/RubberDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/BasicDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/Duck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyBehavior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyNoWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyWithWings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Quack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/QuackBehavior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Squeak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/MuteQuack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>design</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>strategy</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Attack.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Punch.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Missile.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/model/Babarian.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/model/Amazon.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/interfaces/AxeBehavior.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/interfaces/BowAndArrowBehavior.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/interfaces/KnifeBehavior.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/game/interfaces/SwordBehavior.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/robot/interfaces/move/Fly.java" />
+        <option value="$PROJECT_DIR$/src/com/strategy/robot/interfaces/move/Walk.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/strategy.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="duck" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="duck" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="duck" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="fly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="duck" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="quack" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="236c3d57-cda0-42d8-8cc3-8d64ce16883f" name="Default Changelist" comment="" />
+      <created>1567174147087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567174147087</updated>
+      <workItem from="1567174151117" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="514000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/model/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/model/Babarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/model/Amazon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/interfaces/AxeBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/interfaces/BowAndArrowBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/move/Walk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/model/TaekwonV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/model/Atom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/move/Fly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/move/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Punch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/interfaces/SwordBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/game/interfaces/KnifeBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Missile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/robot/interfaces/attack/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/interfaces/BookDiscountPricePolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/interfaces/MemberDiscountPricePolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/interfaces/OrdinaryPricePolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/model/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/book/model/Rent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/ReadHeadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/BasicDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/model/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyNoWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/MuteQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

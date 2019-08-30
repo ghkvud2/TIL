@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyNoWay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/fly/FlyWithWings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/MuteQuack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Quack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/interfaces/quack/Squeak.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/model/BasicDuck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/model/Duck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/model/ReadHeadDuck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/duck/model/RubberDuck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/strategy/game/model/Amazon.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
