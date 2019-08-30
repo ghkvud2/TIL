@@ -1,4 +1,4 @@
-## 1. 단일 책임 원칙 (Single Responsibility Principle)
+# 1. 단일 책임 원칙 (Single Responsibility Principle)
 
 - 객체지향 설계 관점에서는 SRP에서 말하는 책임의 기본 단위는 객체를 지칭한다. 즉, 객체는 단 하나의 책임만 가져야 한다는 의미이다.
 
@@ -79,7 +79,27 @@ public class Student{
 
   
 
-# 개방 폐쇄 원칙 (Open-Closed Priciple)
+# 2. 개방 폐쇄 원칙 (Open-Closed Priciple)
 
-- 개방 폐쇄 원칙은 기존의 코드를 변경하지 않으면서 기능을 추가할 수 있도록 설계가 되어야 한다는 뜻이다.
-- 
+- 클래스나 모듈은 확장에는 열려있어야 하고, 변경에는 닫혀 있어야 한다.
+- 인터페이스를 이용하는 클래스는 자신의 변화가 불필요하게 일어나지 않도록 굳게 폐쇄되어있는 반면에 인터페이스를 사용함으로써 확장 포인트를 넗혀갈 수 있다.
+
+```java
+public class ExcelDownLoader{
+    
+    private DownLoader downLoader;
+    
+    public ExcelDownLoader(DownLoader downLoader){
+        this.downLoader = downLoader;
+    }
+    .....
+}
+```
+
+- 위의 `ExcelDownLoader`클래스는 `DownLoader` 인터페이스를 구현하는 클래스를 생성자로 전달받는다.
+- `ExcelDownLoader` 클래스 입장에서 본인의  본연의 기능을 수정하지 않고도, `DownLoader` 인터페이스를 구현한 클래스들을 전달받음으로써 자유롭게 확장할 수 있다.
+
+
+
+# 3. 리스코프 치환 원칙 (LSP)
+
