@@ -1,7 +1,7 @@
 package com.design.duck.model;
 
-import com.design.duck.fly.FlyWithWings;
-import com.design.duck.quack.Quack;
+import com.design.duck.interfaces.fly.FlyWithWings;
+import com.design.duck.interfaces.quack.Quack;
 
 public class ReadHeadDuck extends Duck{
 

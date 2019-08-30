@@ -1,6 +1,6 @@
 package com.design.game.model;
 
-import com.design.game.weapon.WeaponBehavior;
+import com.design.game.interfaces.WeaponBehavior;
 
 public abstract class Character {
 

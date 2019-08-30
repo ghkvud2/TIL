@@ -1,7 +1,7 @@
 package com.design.game.model;
 
-import com.design.game.weapon.BowAndArrowBehavior;
-import com.design.game.weapon.SwordBehavior;
+import com.design.game.interfaces.BowAndArrowBehavior;
+import com.design.game.interfaces.SwordBehavior;
 
 public class Amazon extends Character {
 

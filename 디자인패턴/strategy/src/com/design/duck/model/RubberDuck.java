@@ -1,7 +1,7 @@
 package com.design.duck.model;
 
-import com.design.duck.fly.FlyNoWay;
-import com.design.duck.quack.Squeak;
+import com.design.duck.interfaces.fly.FlyNoWay;
+import com.design.duck.interfaces.quack.Squeak;
 
 public class RubberDuck extends Duck {
 

@@ -1,6 +1,6 @@
 package com.design.game.model;
 
-import com.design.game.weapon.SwordBehavior;
+import com.design.game.interfaces.SwordBehavior;
 
 public class Babarian extends Character {
 
