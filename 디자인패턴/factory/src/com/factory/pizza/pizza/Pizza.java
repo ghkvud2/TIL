@@ -8,14 +8,14 @@ public abstract class Pizza {
     String name;
     String dough;
     String sauce;
-    List<String> toping = new ArrayList<>();
+    List<String> toppings = new ArrayList<>();
 
     public void prepare() {
         System.out.println(name + " 피자를 준비합니다.");
         System.out.println("반죽을 준비합니다.");
         System.out.println("소스를 뿌립니다.");
         System.out.print("[토핑] : ");
-        for (String s : toping) {
+        for (String s : toppings) {
             System.out.println(s + " ");
         }
     }

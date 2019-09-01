@@ -2,10 +2,11 @@ package com.factory.pizza.pizza;
 
 public class NYStyleCheesePizza extends Pizza {
 
-    public NYStyleCheesePizza() {
-        name = "뉴욕 치즈피자";
-        dough = "얇고 바삭한 반죽";
-        sauce = "마리나라 소스";
-        toping.add("잘게 썬 레지아노 치즈");
-    }
+	public NYStyleCheesePizza() { 
+		name = "NY Style Sauce and Cheese Pizza";
+		dough = "Thin Crust Dough";
+		sauce = "Marinara Sauce";
+ 
+		toppings.add("Grated Reggiano Cheese");
+	}
 }

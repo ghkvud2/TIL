@@ -2,6 +2,7 @@ package com.factory.pizza;
 
 import com.factory.pizza.pizza.Pizza;
 import com.factory.pizza.pizzastore.ChicagoPizzaStore;
+import com.factory.pizza.pizzastore.DependentPizzaStore;
 import com.factory.pizza.pizzastore.NYPizzaStore;
 import com.factory.pizza.pizzastore.PizzaStore;
 
