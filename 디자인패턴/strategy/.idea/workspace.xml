@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d62e240-6afb-46ee-9ae6-a81a2977dfac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../observer/src/com/observer/talent/TalentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../observer/src/com/observer/talent/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../observer/src/com/observer/talent/observer/Press.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../observer/src/com/observer/talent/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../observer/src/com/observer/talent/subject/Talent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factory/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factory/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factory_abstract/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factory_abstract/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../factory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_abstract/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../observer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../observer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/BookMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/BookMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/interfaces/BookDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/interfaces/BookDiscountPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/interfaces/MemberDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/interfaces/MemberDiscountPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/interfaces/OrdinaryDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/interfaces/OrdinaryDiscountPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/interfaces/PricePolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/interfaces/PricePolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/model/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/model/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/model/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/book/model/Rental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/book/model/Rental.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/DuckMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/DuckMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/Fly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/FlyNoWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/FlyNoWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackRubber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackRubber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackSlient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/interfaces/QuackSlient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/model/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/model/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/model/RobotDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/model/RobotDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/model/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/model/RubberDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/duck/model/WoodDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/duck/model/WoodDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/RobotMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/RobotMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Attack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Attack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Fly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Missile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Missile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Punch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Punch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Walk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/interfaces/Walk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/model/Atom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/model/Atom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/model/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/model/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/strategy/robot/model/TaekwonV.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/strategy/robot/model/TaekwonV.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../template/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -97,10 +126,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="45" />
+    <option name="y" value="204" />
+    <option name="width" value="1508" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,19 +148,28 @@
               <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
               <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="strategy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../observer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../intellij/gisame" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -220,11 +260,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568039938309</updated>
       <workItem from="1568039941110" duration="3508000" />
+      <workItem from="1568208333259" duration="984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3508000" />
+    <option name="totallyTimeSpent" value="4492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -234,7 +275,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="1" />
@@ -245,7 +286,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -266,34 +307,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/HorseMoving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/AirplaneMoving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/Weapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/CarMoving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/HorseMoving.java" />
+    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/AirplaneMoving.java" />
+    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/Weapon.java" />
+    <entry file="file://$PROJECT_DIR$/src/strategy/robot/interfaces/CarMoving.java" />
     <entry file="file://$PROJECT_DIR$/src/strategy/duck/interfaces/FlyNoWings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">

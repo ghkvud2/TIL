@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38923a1a-a0a7-4873-90f9-53dae6734bd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/observer/talent/TalentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/observer/talent/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/observer/talent/observer/Press.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/observer/talent/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/observer/talent/subject/Talent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../template/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="38923a1a-a0a7-4873-90f9-53dae6734bd8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -209,45 +198,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="talent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="talent" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="weather" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="weather" type="462c0819:PsiDirectoryNode" />
-              <item name="push" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="weather" type="462c0819:PsiDirectoryNode" />
-              <item name="push" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -356,16 +306,15 @@
       <updated>1567261701241</updated>
       <workItem from="1567261714545" duration="3574000" />
       <workItem from="1568039729286" duration="403000" />
-      <workItem from="1568042853664" duration="2177000" />
+      <workItem from="1568042853664" duration="2220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6154000" />
+    <option name="totallyTimeSpent" value="6197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -376,7 +325,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2646421" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
