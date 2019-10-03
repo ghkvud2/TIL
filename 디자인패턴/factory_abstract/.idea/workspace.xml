@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89436330-2ad6-45f5-a3d3-63d9a6b46726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../factory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../observer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../observer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/BookMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/BookMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/BookDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/BookDiscountPolicy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/MemberDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/MemberDiscountPolicy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/OrdinaryDiscountPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/OrdinaryDiscountPolicy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/PricePolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/interfaces/PricePolicy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Rental.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/book/model/Rental.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/DuckMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/DuckMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/Fly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/FlyNoWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/FlyNoWings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/FlyWithWings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/Quack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackRobot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackRubber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackRubber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackSlient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/interfaces/QuackSlient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/RobotDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/RobotDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/RubberDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/WoodDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/duck/model/WoodDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/RobotMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/RobotMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Attack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Attack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Fly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Missile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Missile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Move.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Punch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Punch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Walk.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/interfaces/Walk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/Atom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/Atom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/TaekwonV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strategy/bin/strategy/robot/model/TaekwonV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../template/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89436330-2ad6-45f5-a3d3-63d9a6b46726" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -204,9 +164,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
-    <option name="y" value="204" />
-    <option name="width" value="1508" />
-    <option name="height" value="1047" />
+    <option name="y" value="203" />
+    <option name="width" value="1509" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,24 +188,12 @@
               <item name="factory_abstract" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="factory_abstract" type="b2602c69:ProjectViewProjectNode" />
-              <item name="factory_abstract" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="factory_abstract" type="b2602c69:ProjectViewProjectNode" />
-              <item name="factory_abstract" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,24 +267,23 @@
       <updated>1567321565928</updated>
       <workItem from="1567321570567" duration="2381000" />
       <workItem from="1568208387010" duration="626000" />
+      <workItem from="1569927013944" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3007000" />
+    <option name="totallyTimeSpent" value="3039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.06666667" />
@@ -351,7 +297,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,6 +307,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,6 +511,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/factory/pizza/store/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/factory/pizza/pizza/PepperoniPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -575,13 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/factory/pizza/store/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
