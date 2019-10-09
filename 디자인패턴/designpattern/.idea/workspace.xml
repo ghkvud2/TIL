@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20de6e6a-293f-4b1a-be51-97407e2b38ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/PizzaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/MozzarellaCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/ParmesanCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/ReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/clams/Clams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/clams/FreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/clams/FrozenClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/dough/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/dough/ThickCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/dough/ThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/pepperoni/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/pepperoni/SlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/sauce/MarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/sauce/PlumTomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/sauce/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/BlackOlives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Eggplant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Spinach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/veggies/Veggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/controller/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithDynamicScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithResponseTimeScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/PizzaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/NYStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/NYStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/NYStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/DependentPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/ElevatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/ControlRoomDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/ElevatorDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/FloorDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/VoiceNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/subject/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/ScoreMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/DataSheetView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/MinMaxView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/ScoreRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/talent/TalentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/talent/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/talent/observer/Press.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/talent/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/talent/subject/Talent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/WeatherPullMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/subject/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/WeatherPushMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/subject/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/interfaces/BookDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/interfaces/MemberDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/interfaces/OrdinaryDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/interfaces/PricePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/model/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/book/model/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/DuckMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/FlyNoWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/QuackRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/QuackRubber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/interfaces/QuackSlient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/model/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/model/RobotDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/model/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/duck/model/WoodDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/RobotMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Missile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Punch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/interfaces/Walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/model/Atom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/model/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/robot/model/TaekwonV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/beverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/beverage/BeverageMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/beverage/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/beverage/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/customer/CustomerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/customer/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/ElevatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/door/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/enums/DoorStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/enums/MotorStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/motor/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/PizzaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/factory/ChicagoPizzaIngredientFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/factory/NYPizzaIngredientFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/factory/PizzaIngredientFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/cheese/Cheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/cheese/MozzarellaCheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/cheese/ParmesanCheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/cheese/ReggianoCheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/clams/Clams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/clams/FreshClams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/clams/FrozenClams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/dough/Dough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/dough/ThickCrustDough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/dough/ThinCrustDough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/pepperoni/Pepperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/pepperoni/SlicedPepperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/sauce/MarinaraSauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/sauce/PlumTomatoSauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/sauce/Sauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/BlackOlives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Eggplant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Garlic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Mushroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Onion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/RedPepper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Spinach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/ingredients/veggies/Veggies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/pizza/CheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/pizza/ClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/pizza/PepperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/pizza/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/pizza/VeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/store/ChicagoPizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/store/NYPizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_abstract/src/com/factory/pizza/store/PizzaStore.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/template/beverage/Beverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/template/beverage/BeverageMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/factory/pizza/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/Subject.java" />
+        <option value="$PROJECT_DIR$/src/template/beverage/Tea.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/designpattern.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/src/observer/observer.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="200" />
+    <option name="width" value="1510" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20de6e6a-293f-4b1a-be51-97407e2b38ad" name="Default Changelist" comment="" />
+      <created>1570624300531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570624300531</updated>
+      <workItem from="1570624303343" duration="220000" />
+      <workItem from="1570624604986" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/template/beverage/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategy/book/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/observer.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/src/com/observer/score/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizza/ChicagoStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/beverage/BeverageMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
