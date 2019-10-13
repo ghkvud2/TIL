@@ -1,7 +1,8 @@
 package factory.elevator.manager;
 
-import com.factory.elevator.scheduler.Scheduler;
-import com.factory.elevator.scheduler.ThroughputScheduler;
+
+import factory.elevator.scheduler.Scheduler;
+import factory.elevator.scheduler.ThroughputScheduler;
 
 public class ElevatorManagerIWithThroughputScheduling extends ElevatorManager {
     public ElevatorManagerIWithThroughputScheduling(int count) {

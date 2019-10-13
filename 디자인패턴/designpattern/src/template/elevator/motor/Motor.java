@@ -1,9 +1,10 @@
 package template.elevator.motor;
 
-import com.template.elevator.door.Door;
-import com.template.elevator.enums.Direction;
-import com.template.elevator.enums.DoorStatus;
-import com.template.elevator.enums.MotorStatus;
+
+import template.elevator.door.Door;
+import template.elevator.enums.Direction;
+import template.elevator.enums.DoorStatus;
+import template.elevator.enums.MotorStatus;
 
 public abstract class Motor {
 

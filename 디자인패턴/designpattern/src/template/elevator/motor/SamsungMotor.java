@@ -1,7 +1,8 @@
 package template.elevator.motor;
 
-import com.template.elevator.door.Door;
-import com.template.elevator.enums.Direction;
+
+import template.elevator.door.Door;
+import template.elevator.enums.Direction;
 
 public class SamsungMotor extends Motor {
 

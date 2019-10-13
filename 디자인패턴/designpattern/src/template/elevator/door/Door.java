@@ -1,6 +1,7 @@
 package template.elevator.door;
 
-import com.template.elevator.enums.DoorStatus;
+
+import template.elevator.enums.DoorStatus;
 
 public class Door {
 

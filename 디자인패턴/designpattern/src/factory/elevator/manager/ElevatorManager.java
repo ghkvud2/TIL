@@ -1,8 +1,9 @@
 package factory.elevator.manager;
 
-import com.factory.elevator.controller.ElevatorController;
-import com.factory.elevator.enums.Direction;
-import com.factory.elevator.scheduler.Scheduler;
+
+import factory.elevator.controller.ElevatorController;
+import factory.elevator.enums.Direction;
+import factory.elevator.scheduler.Scheduler;
 
 import java.util.ArrayList;
 import java.util.List;

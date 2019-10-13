@@ -2,20 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20de6e6a-293f-4b1a-be51-97407e2b38ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/디자인패턴.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_callback/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_callback/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_callback/CalculatorMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/PepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/store/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/store/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/store/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/store/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../운영체제/정리/가상메모리.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../운영체제/정리/가상메모리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract_factory/pizza/PizzaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/pizza/PizzaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithDynamicScheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithDynamicScheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithResponseTimeScheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithResponseTimeScheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/scheduler/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/pizza/PizzaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/pizza/PizzaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/pizza/pizzastore/DependentPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/DependentPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/pizza/pizzastore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/pizza/pizzastore/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/observer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/ElevatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/ElevatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/ControlRoomDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/observer/ControlRoomDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/ElevatorDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/observer/ElevatorDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/FloorDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/observer/FloorDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/observer/VoiceNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/observer/VoiceNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/subject/ElevatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/subject/ElevatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/elevator/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/elevator/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/ScoreMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/ScoreMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/DataSheetView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/observer/DataSheetView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/MinMaxView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/observer/MinMaxView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/ScoreRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/subject/ScoreRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/score/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/talent/TalentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/talent/TalentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/talent/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/talent/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/talent/observer/Press.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/talent/observer/Press.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/talent/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/talent/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/talent/subject/Talent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/talent/subject/Talent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/WeatherPullMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/WeatherPullMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/CurrentConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/observer/CurrentConditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/observer/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/observer/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/observer/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/observer/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/pull/subject/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/pull/subject/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/WeatherPushMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/WeatherPushMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/CurrentConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/observer/CurrentConditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/observer/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/observer/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/observer/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/observer/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/src/com/observer/weather/push/subject/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/weather/push/subject/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/customer/CustomerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/customer/CustomerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/elevator/ElevatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/elevator/ElevatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/elevator/door/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/elevator/door/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/elevator/motor/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/elevator/motor/Motor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -31,96 +90,121 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/Duck.java">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/observer/ForecastDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="304">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/DuckMain.java">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/WeatherPullMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/MallardDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/Turkey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/TurkeyAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adapter/WildTurkey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="350">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java">
+        <entry file="file://$PROJECT_DIR$/src/template_callback/CalculatorMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/template_callback/Calculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/subject/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Observable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="94" column="18" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/push/WeatherPushMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/push/subject/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-166">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/CurrentConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/weather/push/subject/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>remove</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -128,31 +212,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/factory/pizza/pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/observer/src/com/observer/score/subject/Subject.java" />
-        <option value="$PROJECT_DIR$/src/template/beverage/Tea.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/factory/NYPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/pizza/VeggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/store/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/store/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/store/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/iterator/menu/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/iterator/menu/Waitress.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/component/DarkRoast.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/component/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/component/Decaf.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/component/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/decorator/Milk.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/decorator/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/decorator/Soy.java" />
-        <option value="$PROJECT_DIR$/src/decorate/beverage/decorator/Whip.java" />
-        <option value="$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java" />
+        <option value="$PROJECT_DIR$/src/template_callback/AddCalculation.java" />
+        <option value="$PROJECT_DIR$/src/observer/src/com/observer/score/observer/DataSheetView.java" />
+        <option value="$PROJECT_DIR$/src/abstract_factory/pizza/PizzaMain.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManager.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/scheduler/Scheduler.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithDynamicScheduling.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithResponseTimeScheduling.java" />
+        <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/DependentPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/factory/pizza/PizzaMain.java" />
+        <option value="$PROJECT_DIR$/src/asd/elevator/observer/ElevatorDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/observer/ElevatorDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/subject/Subject.java" />
+        <option value="$PROJECT_DIR$/src/template/customer/CustomerMain.java" />
+        <option value="$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/template/elevator/motor/Motor.java" />
+        <option value="$PROJECT_DIR$/src/template/elevator/ElevatorMain.java" />
+        <option value="$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java" />
+        <option value="$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java" />
+        <option value="$PROJECT_DIR$/src/template/elevator/door/Door.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java" />
+        <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java" />
+        <option value="$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/observer/ControlRoomDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/observer/FloorDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/observer/VoiceNotice.java" />
+        <option value="$PROJECT_DIR$/src/observer/elevator/ElevatorMain.java" />
+        <option value="$PROJECT_DIR$/src/observer/score/observer/MinMaxView.java" />
+        <option value="$PROJECT_DIR$/src/observer/score/ScoreMain.java" />
+        <option value="$PROJECT_DIR$/src/observer/talent/observer/Press.java" />
+        <option value="$PROJECT_DIR$/src/observer/talent/TalentMain.java" />
+        <option value="$PROJECT_DIR$/src/observer/talent/subject/Subject.java" />
+        <option value="$PROJECT_DIR$/src/observer/talent/subject/Talent.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/pull/observer/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/pull/observer/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/pull/observer/StatisticsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/observer/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/observer/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/observer/StatisticsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/subject/Subject.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/subject/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/push/WeatherPushMain.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/pull/subject/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/observer/weather/pull/WeatherPullMain.java" />
+        <option value="$PROJECT_DIR$/src/template_callback/Calculation.java" />
+        <option value="$PROJECT_DIR$/src/template_callback/CalculatorMain.java" />
       </list>
     </option>
   </component>
@@ -161,7 +271,9 @@
     <option name="width" value="1510" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -184,57 +296,114 @@
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza" type="462c0819:PsiDirectoryNode" />
-              <item name="ingredients" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator" type="462c0819:PsiDirectoryNode" />
+              <item name="scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="pizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="pizza" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzastore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="template_callback" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="template_callback" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="template_callback" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="interfaces" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/asd" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="template_callback.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="template_callback.interfaces" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src\asd" />
       <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src" />
     </key>
   </component>
@@ -249,6 +418,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="template_callback.CalculatorMain" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="template_callback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -267,35 +456,39 @@
       <workItem from="1570981533589" duration="215000" />
       <workItem from="1570981779078" duration="30000" />
       <workItem from="1570981833457" duration="347000" />
+      <workItem from="1570987320902" duration="97000" />
+      <workItem from="1570987448970" duration="15000" />
+      <workItem from="1570992832423" duration="1791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1181000" />
+    <option name="totallyTimeSpent" value="3084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,360 +504,435 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/template/beverage/Tea.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithDynamicScheduling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="-128">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/beverage/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/beverage/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/CaffeMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/DinerMenuIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithResponseTimeScheduling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/MenuMain.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizzastore/DependentPizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-304">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/PancakeHouseMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizzastore/PizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/menu/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/PizzaMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="114">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/component/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/observer/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/component/DarkRoast.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/observer/ElevatorDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/component/Decaf.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/subject/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="133">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/component/Espresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/component/HouseBlend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/decorator/Milk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/decorator/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/decorator/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/decorator/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/decorator/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/beverage/BeverageMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MenuComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MenuMain.java">
+    <entry file="file://$PROJECT_DIR$/src/template/customer/CustomerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorUpCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/StereoOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/StereoOnWithCDCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/invoker/RemoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/GarageDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Hottub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java">
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/ElevatorMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Stereo.java">
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/RemoteControllerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/enums/DoorStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/motor/Motor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/elevator/door/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/observer/ControlRoomDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/observer/FloorDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/observer/VoiceNotice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/elevator/ElevatorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/score/observer/MinMaxView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/score/ScoreMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/talent/TalentMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/talent/observer/Press.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/talent/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/talent/subject/Talent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/observer/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/observer/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/observer/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/subject/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/observer/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/push/WeatherPushMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/subject/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/Duck.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weather/pull/WeatherPullMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_callback/Calculation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/DuckMain.java">
+    <entry file="file://$PROJECT_DIR$/src/template_callback/CalculatorMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/TurkeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/factory/ChicagoPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/ClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

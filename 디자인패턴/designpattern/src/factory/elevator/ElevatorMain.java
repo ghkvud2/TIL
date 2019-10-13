@@ -1,11 +1,11 @@
 package factory.elevator;
 
-import com.factory.elevator.enums.Direction;
-import com.factory.elevator.manager.ElevatorManager;
-import com.factory.elevator.manager.ElevatorManagerIWithDynamicScheduling;
-import com.factory.elevator.manager.ElevatorManagerIWithResponseTimeScheduling;
-import com.factory.elevator.manager.ElevatorManagerIWithThroughputScheduling;
-import com.factory.elevator.scheduler.Scheduler;
+
+import factory.elevator.enums.Direction;
+import factory.elevator.manager.ElevatorManager;
+import factory.elevator.manager.ElevatorManagerIWithDynamicScheduling;
+import factory.elevator.manager.ElevatorManagerIWithResponseTimeScheduling;
+import factory.elevator.manager.ElevatorManagerIWithThroughputScheduling;
 
 public class ElevatorMain {
 

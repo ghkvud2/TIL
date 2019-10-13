@@ -1,10 +1,11 @@
 package template.elevator;
 
-import com.template.elevator.door.Door;
-import com.template.elevator.enums.Direction;
-import com.template.elevator.motor.LGMotor;
-import com.template.elevator.motor.Motor;
-import com.template.elevator.motor.SamsungMotor;
+
+import template.elevator.door.Door;
+import template.elevator.enums.Direction;
+import template.elevator.motor.LGMotor;
+import template.elevator.motor.Motor;
+import template.elevator.motor.SamsungMotor;
 
 public class ElevatorMain {
 

@@ -1,7 +1,8 @@
 package factory.elevator.manager;
 
-import com.factory.elevator.scheduler.ResponseScheduler;
-import com.factory.elevator.scheduler.Scheduler;
+
+import factory.elevator.scheduler.ResponseScheduler;
+import factory.elevator.scheduler.Scheduler;
 
 public class ElevatorManagerIWithResponseTimeScheduling extends ElevatorManager {
     public ElevatorManagerIWithResponseTimeScheduling(int count) {

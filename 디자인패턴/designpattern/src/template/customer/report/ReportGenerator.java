@@ -1,6 +1,7 @@
 package template.customer.report;
 
-import com.template.customer.customer.Customer;
+
+import template.customer.customer.Customer;
 
 import java.util.List;
 

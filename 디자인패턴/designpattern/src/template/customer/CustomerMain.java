@@ -1,9 +1,10 @@
 package template.customer;
 
-import com.template.customer.customer.Customer;
-import com.template.customer.report.ComplexReportGenerator;
-import com.template.customer.report.ReportGenerator;
-import com.template.customer.report.SimpleReportGenerator;
+
+import template.customer.customer.Customer;
+import template.customer.report.ComplexReportGenerator;
+import template.customer.report.ReportGenerator;
+import template.customer.report.SimpleReportGenerator;
 
 import java.util.Arrays;
 import java.util.List;

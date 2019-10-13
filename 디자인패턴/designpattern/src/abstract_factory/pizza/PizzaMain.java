@@ -1,9 +1,10 @@
 package abstract_factory.pizza;
 
-import com.factory.pizza.pizza.Pizza;
-import com.factory.pizza.store.ChicagoPizzaStore;
-import com.factory.pizza.store.NYPizzaStore;
-import com.factory.pizza.store.PizzaStore;
+
+import abstract_factory.pizza.pizza.Pizza;
+import abstract_factory.pizza.store.ChicagoPizzaStore;
+import abstract_factory.pizza.store.NYPizzaStore;
+import abstract_factory.pizza.store.PizzaStore;
 
 public class PizzaMain {
 

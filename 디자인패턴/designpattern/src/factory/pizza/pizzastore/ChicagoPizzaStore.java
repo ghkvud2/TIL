@@ -1,6 +1,7 @@
 package factory.pizza.pizzastore;
 
-import com.factory.pizza.pizza.*;
+
+import factory.pizza.pizza.*;
 
 public class ChicagoPizzaStore extends PizzaStore {
 

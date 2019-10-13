@@ -1,8 +1,9 @@
 package factory.elevator.manager;
 
-import com.factory.elevator.scheduler.ResponseScheduler;
-import com.factory.elevator.scheduler.Scheduler;
-import com.factory.elevator.scheduler.ThroughputScheduler;
+
+import factory.elevator.scheduler.ResponseScheduler;
+import factory.elevator.scheduler.Scheduler;
+import factory.elevator.scheduler.ThroughputScheduler;
 
 import java.time.LocalDateTime;
 
