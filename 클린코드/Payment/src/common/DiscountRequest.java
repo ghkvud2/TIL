@@ -1,8 +1,9 @@
+package common;
 
-public class PaymentRequest {
+public class DiscountRequest {
 
-    private String discountCode;
-    private long productAmt;
+    private String discountCode; // 할인코드
+    private long productAmt;    // 상품 가격
 
     public String getDiscountCode() {
         return discountCode;
