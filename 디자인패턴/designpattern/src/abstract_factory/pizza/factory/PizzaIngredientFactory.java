@@ -1,11 +1,12 @@
 package abstract_factory.pizza.factory;
 
-import com.factory.pizza.ingredients.cheese.Cheese;
-import com.factory.pizza.ingredients.clams.Clams;
-import com.factory.pizza.ingredients.dough.Dough;
-import com.factory.pizza.ingredients.pepperoni.Pepperoni;
-import com.factory.pizza.ingredients.sauce.Sauce;
-import com.factory.pizza.ingredients.veggies.Veggies;
+
+import abstract_factory.pizza.ingredients.cheese.Cheese;
+import abstract_factory.pizza.ingredients.clams.Clams;
+import abstract_factory.pizza.ingredients.dough.Dough;
+import abstract_factory.pizza.ingredients.pepperoni.Pepperoni;
+import abstract_factory.pizza.ingredients.sauce.Sauce;
+import abstract_factory.pizza.ingredients.veggies.Veggies;
 
 public interface PizzaIngredientFactory {
  

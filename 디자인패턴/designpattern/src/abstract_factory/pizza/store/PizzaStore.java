@@ -1,6 +1,7 @@
 package abstract_factory.pizza.store;
 
-import com.factory.pizza.pizza.Pizza;
+
+import abstract_factory.pizza.pizza.Pizza;
 
 public abstract class PizzaStore {
  

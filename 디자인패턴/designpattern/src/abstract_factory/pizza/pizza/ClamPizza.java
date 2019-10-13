@@ -1,7 +1,7 @@
 package abstract_factory.pizza.pizza;
 
-import com.factory.pizza.factory.PizzaIngredientFactory;
 
+import abstract_factory.pizza.factory.PizzaIngredientFactory;
 
 public class ClamPizza extends Pizza {
 	PizzaIngredientFactory ingredientFactory;

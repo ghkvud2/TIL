@@ -1,16 +1,17 @@
 package abstract_factory.pizza.factory;
 
-import com.factory.pizza.ingredients.cheese.Cheese;
-import com.factory.pizza.ingredients.cheese.ReggianoCheese;
-import com.factory.pizza.ingredients.clams.Clams;
-import com.factory.pizza.ingredients.clams.FreshClams;
-import com.factory.pizza.ingredients.dough.Dough;
-import com.factory.pizza.ingredients.dough.ThinCrustDough;
-import com.factory.pizza.ingredients.pepperoni.Pepperoni;
-import com.factory.pizza.ingredients.pepperoni.SlicedPepperoni;
-import com.factory.pizza.ingredients.sauce.MarinaraSauce;
-import com.factory.pizza.ingredients.sauce.Sauce;
-import com.factory.pizza.ingredients.veggies.*;
+
+import abstract_factory.pizza.ingredients.cheese.Cheese;
+import abstract_factory.pizza.ingredients.cheese.ReggianoCheese;
+import abstract_factory.pizza.ingredients.clams.Clams;
+import abstract_factory.pizza.ingredients.clams.FreshClams;
+import abstract_factory.pizza.ingredients.dough.Dough;
+import abstract_factory.pizza.ingredients.dough.ThinCrustDough;
+import abstract_factory.pizza.ingredients.pepperoni.Pepperoni;
+import abstract_factory.pizza.ingredients.pepperoni.SlicedPepperoni;
+import abstract_factory.pizza.ingredients.sauce.MarinaraSauce;
+import abstract_factory.pizza.ingredients.sauce.Sauce;
+import abstract_factory.pizza.ingredients.veggies.*;
 
 public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 

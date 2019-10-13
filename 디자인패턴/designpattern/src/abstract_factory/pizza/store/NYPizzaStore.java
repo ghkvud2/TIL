@@ -1,8 +1,9 @@
 package abstract_factory.pizza.store;
 
-import com.factory.pizza.factory.NYPizzaIngredientFactory;
-import com.factory.pizza.factory.PizzaIngredientFactory;
-import com.factory.pizza.pizza.*;
+
+import abstract_factory.pizza.factory.NYPizzaIngredientFactory;
+import abstract_factory.pizza.factory.PizzaIngredientFactory;
+import abstract_factory.pizza.pizza.*;
 
 public class NYPizzaStore extends PizzaStore {
  

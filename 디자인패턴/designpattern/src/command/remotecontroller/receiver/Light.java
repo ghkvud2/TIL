@@ -13,10 +13,10 @@ public class Light {
 	}
 
 	public void on() {
-		System.out.println("[" + getLocation() + "] Àüµî On.");
+		System.out.println("[" + getLocation() + "] ì „ë“± On.");
 	}
 
 	public void off() {
-		System.out.println("[" + getLocation() + "] Àüµî Off.");
+		System.out.println("[" + getLocation() + "] ì „ë“± Off.");
 	}
 }

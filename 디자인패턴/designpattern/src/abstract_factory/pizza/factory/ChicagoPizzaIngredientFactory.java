@@ -1,19 +1,20 @@
 package abstract_factory.pizza.factory;
 
-import com.factory.pizza.ingredients.cheese.Cheese;
-import com.factory.pizza.ingredients.cheese.MozzarellaCheese;
-import com.factory.pizza.ingredients.clams.Clams;
-import com.factory.pizza.ingredients.clams.FrozenClams;
-import com.factory.pizza.ingredients.dough.Dough;
-import com.factory.pizza.ingredients.dough.ThickCrustDough;
-import com.factory.pizza.ingredients.pepperoni.Pepperoni;
-import com.factory.pizza.ingredients.pepperoni.SlicedPepperoni;
-import com.factory.pizza.ingredients.sauce.PlumTomatoSauce;
-import com.factory.pizza.ingredients.sauce.Sauce;
-import com.factory.pizza.ingredients.veggies.BlackOlives;
-import com.factory.pizza.ingredients.veggies.Eggplant;
-import com.factory.pizza.ingredients.veggies.Spinach;
-import com.factory.pizza.ingredients.veggies.Veggies;
+
+import abstract_factory.pizza.ingredients.cheese.Cheese;
+import abstract_factory.pizza.ingredients.cheese.MozzarellaCheese;
+import abstract_factory.pizza.ingredients.clams.Clams;
+import abstract_factory.pizza.ingredients.clams.FrozenClams;
+import abstract_factory.pizza.ingredients.dough.Dough;
+import abstract_factory.pizza.ingredients.dough.ThickCrustDough;
+import abstract_factory.pizza.ingredients.pepperoni.Pepperoni;
+import abstract_factory.pizza.ingredients.pepperoni.SlicedPepperoni;
+import abstract_factory.pizza.ingredients.sauce.PlumTomatoSauce;
+import abstract_factory.pizza.ingredients.sauce.Sauce;
+import abstract_factory.pizza.ingredients.veggies.BlackOlives;
+import abstract_factory.pizza.ingredients.veggies.Eggplant;
+import abstract_factory.pizza.ingredients.veggies.Spinach;
+import abstract_factory.pizza.ingredients.veggies.Veggies;
 
 public class ChicagoPizzaIngredientFactory
         implements PizzaIngredientFactory {
