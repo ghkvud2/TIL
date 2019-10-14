@@ -1,13 +1,13 @@
-package decorate.beverage;
+package decorator.beverage;
 
-import decorate.beverage.component.Beverage;
-import decorate.beverage.component.DarkRoast;
-import decorate.beverage.component.Espresso;
-import decorate.beverage.component.HouseBlend;
-import decorate.beverage.component.Beverage.Size;
-import decorate.beverage.decorator.Mocha;
-import decorate.beverage.decorator.Soy;
-import decorate.beverage.decorator.Whip;
+import decorator.beverage.component.Beverage;
+import decorator.beverage.component.DarkRoast;
+import decorator.beverage.component.Espresso;
+import decorator.beverage.component.HouseBlend;
+import decorator.beverage.component.Beverage.Size;
+import decorator.beverage.decorator.Mocha;
+import decorator.beverage.decorator.Soy;
+import decorator.beverage.decorator.Whip;
 
 public class BeverageMain {
 

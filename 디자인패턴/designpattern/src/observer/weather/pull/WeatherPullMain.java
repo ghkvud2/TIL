@@ -15,17 +15,10 @@ public class WeatherPullMain {
         ForecastDisplay forecastDisplay = new ForecastDisplay(weatherData);
         StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
 
-        System.out.println("[WeatherPullMain]");
-        weatherData.setMeasurements(18, 65, 30.f);
+        weatherData.setMeasurements(80, 65, 30.4f);
         System.out.println();
-        weatherData.setMeasurements(22, 70, 29.2f);
+        weatherData.setMeasurements(82, 70, 29.2f);
         System.out.println();
-        weatherData.setMeasurements(30, 35, 27.f);
-        System.out.println();
-
-        weatherData.deleteObserver(forecastDisplay);
-        weatherData.deleteObserver(statisticsDisplay);
-        weatherData.setMeasurements(5, 15, 27.f);
-        System.out.println();
+        weatherData.setMeasurements(78, 90, 29.2f);
     }
 }

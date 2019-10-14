@@ -1,6 +1,6 @@
-package decorate.road.decorator;
+package decorator.road.decorator;
 
-import decorate.road.component.Display;
+import decorator.road.component.Display;
 
 public class LineDecorator extends DisplayDecorator {
 
@@ -15,6 +15,6 @@ public class LineDecorator extends DisplayDecorator {
 	}
 
 	private void drawLine() {
-		System.out.println("[Â÷¼± Ç¥½Ã]");
+		System.out.println("[ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½]");
 	}
 }

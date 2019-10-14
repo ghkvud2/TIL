@@ -1,6 +1,6 @@
-package decorate.road.decorator;
+package decorator.road.decorator;
 
-import decorate.road.component.Display;
+import decorator.road.component.Display;
 
 public class TrafficDecorator extends DisplayDecorator {
 
@@ -15,6 +15,6 @@ public class TrafficDecorator extends DisplayDecorator {
 	}
 
 	private void drawTraffic() {
-		System.out.println("[±³Åë·® Ç¥½Ã]");
+		System.out.println("[ï¿½ï¿½ï¿½ë·® Ç¥ï¿½ï¿½]");
 	}
 }

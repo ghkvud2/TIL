@@ -10,10 +10,8 @@ public class StatisticsDisplay implements Observer, DisplayElement {
     private float temp;
     private float humid;
     private float pressure;
-    private Observable observable;
 
     public StatisticsDisplay(Observable observable) {
-        this.observable = observable;
         observable.addObserver(this);
     }
 

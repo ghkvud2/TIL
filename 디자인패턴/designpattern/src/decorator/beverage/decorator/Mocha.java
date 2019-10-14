@@ -1,7 +1,6 @@
-package decorate.beverage.decorator;
+package decorator.beverage.decorator;
 
-import decorate.beverage.component.Beverage;
-import decorate.beverage.component.Beverage.Size;
+import decorator.beverage.component.Beverage;
 
 public class Mocha extends CondimentDecorator {
 	public Beverage beverage;

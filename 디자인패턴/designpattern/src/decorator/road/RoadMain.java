@@ -1,9 +1,9 @@
-package decorate.road;
+package decorator.road;
 
-import decorate.road.component.Display;
-import decorate.road.component.RoadDisplay;
-import decorate.road.decorator.LineDecorator;
-import decorate.road.decorator.TrafficDecorator;
+import decorator.road.component.Display;
+import decorator.road.component.RoadDisplay;
+import decorator.road.decorator.LineDecorator;
+import decorator.road.decorator.TrafficDecorator;
 
 public class RoadMain {
 

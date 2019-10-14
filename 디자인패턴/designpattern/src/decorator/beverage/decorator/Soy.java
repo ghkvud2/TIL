@@ -1,18 +1,17 @@
-package decorate.beverage.decorator;
+package decorator.beverage.decorator;
 
-import decorate.beverage.component.Beverage;
-import decorate.beverage.component.Beverage.Size;
+import decorator.beverage.component.Beverage;
 
-public class Whip extends CondimentDecorator {
+public class Soy extends CondimentDecorator {
 	public Beverage beverage;
 
-	public Whip(Beverage beverage) {
+	public Soy(Beverage beverage) {
 		this.beverage = beverage;
 	}
 
 	@Override
 	public String getDescription() {
-		return beverage.getDescription() + ", »÷«Œ";
+		return beverage.getDescription() + ", µŒ¿Ø";
 	}
 
 	@Override

@@ -1,4 +1,4 @@
-package decorate.beverage.component;
+package decorator.beverage.component;
 
 public abstract class Beverage {
 

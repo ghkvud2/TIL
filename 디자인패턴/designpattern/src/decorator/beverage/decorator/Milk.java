@@ -1,18 +1,17 @@
-package decorate.beverage.decorator;
+package decorator.beverage.decorator;
 
-import decorate.beverage.component.Beverage;
-import decorate.beverage.component.Beverage.Size;
+import decorator.beverage.component.Beverage;
 
-public class Soy extends CondimentDecorator {
+public class Milk extends CondimentDecorator {
 	public Beverage beverage;
 
-	public Soy(Beverage beverage) {
+	public Milk(Beverage beverage) {
 		this.beverage = beverage;
 	}
 
 	@Override
 	public String getDescription() {
-		return beverage.getDescription() + ", 두유";
+		return beverage.getDescription() + ", 스팀밀크";
 	}
 
 	@Override

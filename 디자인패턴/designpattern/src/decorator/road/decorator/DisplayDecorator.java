@@ -1,6 +1,6 @@
-package decorate.road.decorator;
+package decorator.road.decorator;
 
-import decorate.road.component.Display;
+import decorator.road.component.Display;
 
 public class DisplayDecorator implements Display {
 

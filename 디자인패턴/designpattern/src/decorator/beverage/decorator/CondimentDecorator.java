@@ -1,6 +1,6 @@
-package decorate.beverage.decorator;
+package decorator.beverage.decorator;
 
-import decorate.beverage.component.Beverage;
+import decorator.beverage.component.Beverage;
 
 public abstract class CondimentDecorator extends Beverage {
 	public abstract String getDescription();

@@ -1,4 +1,5 @@
 package observer.weather.push.subject;
+
 import observer.weather.push.observer.Observer;
 
 import java.util.ArrayList;

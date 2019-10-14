@@ -1,4 +1,4 @@
-package decorate.beverage.component;
+package decorator.beverage.component;
 
 public class DarkRoast extends Beverage {
 
