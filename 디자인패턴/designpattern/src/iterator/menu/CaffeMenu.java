@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class CaffeMenu implements Menu {
 
+
 	Map<String, MenuItem> items;
 
 	public CaffeMenu() {
