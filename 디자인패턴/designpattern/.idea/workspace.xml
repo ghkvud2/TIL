@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20de6e6a-293f-4b1a-be51-97407e2b38ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/GumballMachineMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/WinnerState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/menu/CaffeMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/menu/CaffeMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../운영체제/정리/5. 메모리관리전략.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../운영체제/정리/5. 메모리관리전략.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../운영체제/정리/6. 가상메모리.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../운영체제/정리/6. 가상메모리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../운영체제/정리/7. 파일 시스템 구현.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../운영체제/정리/7. 파일 시스템 구현.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -21,16 +29,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/GarageDoor.java">
+        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -39,64 +38,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorUpCommand.java">
+        <entry file="file://$PROJECT_DIR$/src/state/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/LightOffCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/invoker/RemoteController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="-76">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/RemoteControllerMain.java">
+        <entry file="file://$PROJECT_DIR$/src/state/GumballMachineMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/StereoOnWithCDCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Hottub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -131,17 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/template/customer/report/ReportGenerator.java" />
-        <option value="$PROJECT_DIR$/src/template/customer/report/SimpleReportGenerator.java" />
-        <option value="$PROJECT_DIR$/src/template/customer/report/ComplexReportGenerator.java" />
-        <option value="$PROJECT_DIR$/src/template/elevator/motor/Motor.java" />
-        <option value="$PROJECT_DIR$/src/template/elevator/ElevatorMain.java" />
-        <option value="$PROJECT_DIR$/src/template/elevator/motor/SamsungMotor.java" />
-        <option value="$PROJECT_DIR$/src/template/elevator/motor/LGMotor.java" />
-        <option value="$PROJECT_DIR$/src/template/elevator/door/Door.java" />
-        <option value="$PROJECT_DIR$/src/factory/elevator/manager/ElevatorManagerIWithThroughputScheduling.java" />
-        <option value="$PROJECT_DIR$/src/factory/elevator/ElevatorMain.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/ChicagoPizzaStore.java" />
         <option value="$PROJECT_DIR$/src/factory/pizza/pizzastore/NYPizzaStore.java" />
         <option value="$PROJECT_DIR$/src/factory/elevator/scheduler/ResponseScheduler.java" />
         <option value="$PROJECT_DIR$/src/factory/elevator/scheduler/ThroughputScheduler.java" />
@@ -182,13 +125,24 @@
         <option value="$PROJECT_DIR$/src/iterator/menu/DinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/iterator/menu/CaffeMenu.java" />
         <option value="$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java" />
+        <option value="$PROJECT_DIR$/src/state/SoldState.java" />
+        <option value="$PROJECT_DIR$/src/state/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/src/state/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/state/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/state/State.java" />
+        <option value="$PROJECT_DIR$/src/state/WinnerState.java" />
+        <option value="$PROJECT_DIR$/src/state/GambleMain.java" />
+        <option value="$PROJECT_DIR$/src/state/GambleMachineMain.java" />
+        <option value="$PROJECT_DIR$/src/state/GambleMachine.java" />
+        <option value="$PROJECT_DIR$/src/state/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/state/GumballMachineMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1067" />
-    <option name="width" value="862" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1066" />
+    <option name="width" value="863" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,22 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -239,27 +177,36 @@
               <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="template_callback" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="designpattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="template_callback" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="interfaces" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="state" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/state" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -271,16 +218,18 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src\asd" />
-      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="state" />
+      <recent name="abstract_factory.pizza.ingredients.cheese" />
+      <recent name="template_callback.model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="template_callback.interfaces" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="abstract_factory.pizza.ingredients.cheese" />
-      <recent name="template_callback.model" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src\state" />
+      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src\asd" />
+      <recent name="C:\workspace\GitRepository\TIL\디자인패턴\designpattern\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,13 +244,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteControllerMain">
-    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="template_callback.CalculatorMain" />
+  <component name="RunManager" selected="Application.GumballMachineMain">
+    <configuration name="GambleMachineMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.GambleMachineMain" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="template_callback.legacy.*" />
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GumballMachineMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.GumballMachineMain" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,10 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GumballMachineMain" />
+        <item itemvalue="Application.GambleMachineMain" />
         <item itemvalue="Application.RemoteControllerMain" />
         <item itemvalue="Application.WeatherPullMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CalculatorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -380,16 +343,18 @@
       <workItem from="1571048528043" duration="5622000" />
       <workItem from="1571072458238" duration="9143000" />
       <workItem from="1571134962971" duration="6756000" />
+      <workItem from="1572619904835" duration="2372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25128000" />
+    <option name="totallyTimeSpent" value="27500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="854" y="0" width="689" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6963434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.304698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +364,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.312769" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3432624" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -424,77 +389,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/dough/ThickCrustDough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/MozzarellaCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/ingredients/cheese/ParmesanCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/factory/PizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/store/NYPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorator/beverage/decorator/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/PizzaMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/store/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/abstract_factory/pizza/pizza/PepperoniPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -724,7 +618,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/StereoOnWithCDCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/GarageDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorUpCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -738,31 +646,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorUpCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/invoker/RemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/StereoOnWithCDCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/GarageDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Hottub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java">
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/RemoteControllerMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="237">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -773,24 +681,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/command/GarageDoorDownCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/state/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/GambleMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/WinnerState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/invoker/RemoteController.java">
+    <entry file="file://$PROJECT_DIR$/src/state/GambleMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="361">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/RemoteControllerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/state/GambleMachineMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/remotecontroller/receiver/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/GumballMachineMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
