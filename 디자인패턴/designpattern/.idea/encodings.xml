@@ -10,9 +10,9 @@
     <file url="file://$PROJECT_DIR$/src/decorator/beverage/decorator/Mocha.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/decorator/beverage/decorator/Soy.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/decorator/beverage/decorator/Whip.java" charset="x-windows-949" />
-    <file url="file://$PROJECT_DIR$/src/iterator/menu/DinerMenu.java" charset="x-windows-949" />
-    <file url="file://$PROJECT_DIR$/src/iterator/menu/DinerMenuIterator.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/src/iterator/menu/Waitress.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/iterator/menu/iterator/DinerMenuIterator.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/iterator/menu/menu/DinerMenu.java" charset="x-windows-949" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

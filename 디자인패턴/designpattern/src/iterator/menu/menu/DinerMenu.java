@@ -1,4 +1,7 @@
-package iterator.menu;
+package iterator.menu.menu;
+
+import iterator.menu.iterator.DinerMenuIterator;
+import iterator.menu.MenuItem;
 
 import java.util.Iterator;
 

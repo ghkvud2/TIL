@@ -1,5 +1,9 @@
 package iterator.menu;
 
+import iterator.menu.menu.CaffeMenu;
+import iterator.menu.menu.DinerMenu;
+import iterator.menu.menu.PancakeHouseMenu;
+
 public class MenuMain {
 	public static void main(String[] args) {
 
