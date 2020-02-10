@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="디자인패턴/factory_abstract/src"/>
+	<classpathentry kind="src" path="디자인패턴/factory/src"/>
+	<classpathentry kind="src" path="디자인패턴/observer/src"/>
+	<classpathentry kind="src" path="디자인패턴/strategy/src"/>
+	<classpathentry kind="src" path="디자인패턴/template/src"/>
+	<classpathentry kind="output" path="디자인패턴/observer/bin"/>
+</classpath>
